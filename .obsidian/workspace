@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "fa8825fe758db353",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7140660bdcd91b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e2aeb4f488dce56",
+    "type": "split",
+    "children": [
+      {
+        "id": "23587d738b1eeba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e404f7066eaa7330",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e192ade21aa75f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9db61e9a028a1ac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "08805f180d419634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32e13106b413adc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70c6d5c5b6b07983",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0a7140660bdcd91b",
+  "lastOpenFiles": [
+    "shortcuts/Siri Shortcuts for Scrubs.md",
+    "shortcuts/Untitled.md",
+    "SI on Discord Regarding Swift.md",
+    "Untitled.md",
+    "I Trust Telegram.md",
+    "Telegram Notes.md",
+    "A Hearty Foundation.md",
+    "README.md"
+  ]
+}
